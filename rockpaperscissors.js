@@ -1,3 +1,4 @@
+console.log('LETS PLAY SOME ROCK PAPER SCISSORS!!!')
 let array = ["rock", "paper", "scissors"];
 
 let prompt = require('prompt');
